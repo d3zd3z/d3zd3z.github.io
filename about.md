@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a software engineer and Jazz musician, currently living in the
+Denver, CO area.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+My &ldquo;day job&rdquo; has me working on ARM-based embedded system.
+Primarily focusing on security.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+On my own time, I have a fascinatin with the [Rust][rust] language.
+I'm glad to see it getting a lot of interest, as I find it to have an
+outstanding set of features.  I have several projects on my
+[github][github] page.
+
+As far as Jazz, I play piano.  I've played piano, starting with
+classical, since I was about 8, and have been studying jazz since the
+mid 2000&lsquo;s.
+
+[rust]: https://www.rust-lang.org/en-US/
+[github]: https://github.com/d3zd3z/
