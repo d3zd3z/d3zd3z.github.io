@@ -17,7 +17,7 @@ outstanding set of features.  I have several projects on my
 
 As far as Jazz, I play piano.  I've played piano, starting with
 classical, since I was about 8, and have been studying jazz since the
-mid 2000&lsquo;s.
+mid 2000&rsquo;s.
 
 [rust]: https://www.rust-lang.org/en-US/
 [github]: https://github.com/d3zd3z/
